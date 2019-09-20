@@ -24,7 +24,6 @@ export default class Movie extends React.Component {
         .catch(err => {
             console.log(err)
         })
-        
 }
 
   componentDidMount() {
